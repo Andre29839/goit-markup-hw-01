@@ -62,7 +62,7 @@ header .address {
 .hero {
     background-color: var(--secondary-color-text);
     font-weight: 700;
-    font-style: 56px;
+    font-size: 56px;
     line-height: 1.07;
     text-align: center;
 }
@@ -81,7 +81,7 @@ header .address {
 .avantages-title {
     color: var(--secondary-color-text);
     font-weight: 500;
-    font-size: 20;
+    font-size: 20px;
     line-height: 1.2;
 }
 
